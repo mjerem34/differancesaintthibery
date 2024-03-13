@@ -1,12 +1,12 @@
 # Site settings
-title:
-email:
+title: Brasserie La DifferAnce
+email: differancesaintthibery@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+baseurl: '/'
+url: 'https://differancesaintthibery.fr'
 
-twitter_username:
-github_username:
+instagram_username: brasserie_la_differance
+facebook_username: Brasserie-La-DifferAnce-100077345691675
 
 # Build settings
 markdown: kramdown

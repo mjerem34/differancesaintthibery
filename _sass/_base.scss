@@ -148,7 +148,6 @@ aside {
 }
 
 // Homepage Header
-
 header {
     position: relative;
     width: 100%;
@@ -158,6 +157,15 @@ header {
     background-image: url('../img/header.jpg');
     text-align: center;
     color: white;
+    &::before {
+    content: "";
+      position: absolute;
+      top: 0;
+      right: 0;
+      bottom: 0;
+      left: 0;
+      background: rgba(0, 0, 0, 0.5);
+    }
     .header-content {
         position: relative;
         text-align: center;
@@ -348,4 +356,3 @@ img::-moz-selection {
 body {
     -webkit-tap-highlight-color: $theme-dark;
 }
-
