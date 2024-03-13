@@ -1,6 +1,7 @@
 # Site settings
 title: Brasserie La DifferAnce
 email: differancesaintthibery@gmail.com
+phone: 0782116923
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: '/'
 url: 'https://differancesaintthibery.fr'
